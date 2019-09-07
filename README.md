@@ -1,7 +1,6 @@
 # Process control (EE2090) lecture notes
 
-## Chapter 1: Introduction
-    
+## [Chapter 1: Introduction](https://github.com/hoangducchinh/process_control_lectures/blob/master/C1_Introduction.pdf)
 * Moldule introduction
 * Fundamental definitions
 * Laplace transform revision
@@ -24,4 +23,4 @@
 
 ## Chapter 5: PID Controller Design
 * PID control tuning
-* Typical case studies
+* Case studies
