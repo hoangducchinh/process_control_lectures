@@ -6,7 +6,7 @@
 * Fundamental definitions
 * Laplace transform revision
 
-## Chapter 2: Process Modelling
+## [Chapter 2: Process Modelling](https://github.com/hoangducchinh/process_control_lectures/blob/master/C2_Process_Model.pdf)
 
 * Modelling introduction
 * Dynamic behaviours & Practial approach
@@ -39,7 +39,7 @@
     Final exams (written, closed book): 60%
 
 ## References
-
+	
     Sách tiếng Việt:
     [1] Hoàng Minh Sơn: "Cơ sở hệ thống điều khiển quá trình", NXB Bách khoa Hà Nội, 2006 hoặc 2016.
     [2] Nguyễn Doãn Phước (2016), "Cơ sở lý thuyết điều khiển tuyến tính", Nhà xuất bản Bách Khoa Hà Nội
@@ -49,3 +49,5 @@
     [4] Thomas Marlin: Process Control: "Designing Processes and Control Systems for Dynamic Performance", McGraw-Hill 2000. 
     [5] Smith, C.A; A. Corripio: "Principles and Practice of Automatic Process Control", 3rd Edition, John Wiley & Sons, Inc. 2006.
     [6] Armando B. Corripio: "Design and Application of Process Control Systems", Instrument Society of America (ISA), 1998.
+	
+	These lecture notes are mainly based on Assoc. Prof. Hoang Minh Son's slides for Process Control Lectures in SEE-HUST.
