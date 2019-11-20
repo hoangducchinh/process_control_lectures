@@ -1,32 +1,33 @@
 # Process control (EE2090) lecture notes
 Syllabus and slides are for School of Chemical Engineering, HUST and taught in Fall Semester 2019
 
-## [Chapter 1: Introduction](https://github.com/hoangducchinh/process_control_lectures/blob/master/C1_Introduction.pdf)
+## Syllabus
+### [Chapter 1: Introduction](https://github.com/hoangducchinh/process_control_lectures/blob/master/C1_Introduction.pdf)
 
 * Moldule introduction
 * Fundamental definitions
 * Laplace transform revision
 
-## [Chapter 2: Process Modelling](https://github.com/hoangducchinh/process_control_lectures/blob/master/C2_Process_Model.pdf)
+### [Chapter 2: Process Modelling](https://github.com/hoangducchinh/process_control_lectures/blob/master/C2_Process_Model.pdf)
 
 * Modelling introduction
 * Dynamic behaviours & Practial approach
 * Process interelationships & Theoretical approach
 * Theoretical modelling methods
 
-## [Chapter 3: System Components](https://github.com/hoangducchinh/process_control_lectures/blob/master/C3_System_Components.pdf)
+### [Chapter 3: System Components](https://github.com/hoangducchinh/process_control_lectures/blob/master/C3_System_Components.pdf)
 
 * Measurement instrumentation
 * Actuator
 * Controller
 
-## Chapter 4: Feedback Control Analysis
+### Chapter 4: Feedback Control Analysis
 
 * Block diagram representation
 * System stability
 * Control quality
 
-## Chapter 5: PID Controller Design
+### Chapter 5: PID Controller Design
 
 * PID control tuning
 * Case studies
