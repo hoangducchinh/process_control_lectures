@@ -1,4 +1,5 @@
 # Process control (EE2090) lecture notes
+Syllabus and slides are for School of Chemical Engineering, HUST and taught in Fall Semester 2019.
 
 ## [Chapter 1: Introduction](https://github.com/hoangducchinh/process_control_lectures/blob/master/C1_Introduction.pdf)
 
