@@ -21,7 +21,7 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
 * Actuator
 * Controller
 
-### Chapter 4: Feedback Control Analysis
+### [Chapter 4: Feedback Control Analysis](https://github.com/hoangducchinh/process_control_lectures/blob/master/C4_Feedback_Control_Analysis.pdf)
 
 * Block diagram representation
 * System stability
