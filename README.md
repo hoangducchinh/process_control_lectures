@@ -21,16 +21,16 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
 * Actuator
 * Controller
 
-### [Chapter 4: Feedback Control Analysis](https://github.com/hoangducchinh/process_control_lectures/blob/master/C4_Feedback_Control_Analysis.pdf)
+### [Chapter 4: Feedback Control Analysis](https://github.com/hoangducchinh/process_control_lectures/blob/master/C4_Feedback_Control_Analysis_updated.pdf)
 
 * Block diagram representation
 * System stability
 * Control quality
 
-### Chapter 5: PID Controller Design
+### [Chapter 5: PID Controller Design](https://github.com/hoangducchinh/process_control_lectures/blob/master/C5_PID_Tuning_tobeUpdated.pdf)
 
-* PID control tuning
-* Case studies
+* Process model approximation
+* PID control tuning methods
 
 ## Evaluation
 
