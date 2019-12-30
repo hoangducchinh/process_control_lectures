@@ -1,6 +1,25 @@
 # Process control (EE2090) lecture notes
 Syllabus and slides are for School of Chemical Engineering, HUST and taught in Fall Semester 2019
 
+[comment]: <> (# Chú ý: sinh viên được sử dụng tài liệu là 2 tờ A4 viết tay khi làm bài thi cuối kỳ. **Không được sử dụng tài liệu photo, nếu sử dụng sẽ bị thu bài làm và mời ra khỏi phòng thi!**)
+
+## Nội dung ôn tập cuối kỳ: 
+(Không sử dụng tài liệu khi thi cuối kỳ. Tuy nhiên sinh viên có thể chuẩn bị 2 tờ A4 viết tay (không sử dụng tài liệu photo), nếu được sử dụng khi làm bài sẽ có thông báo sau)
+* Chương 1: 
+    * Nhận biết các biến quá trình
+    * Hiểu và phân tích lưu đồ P&ID
+* Chương 2:
+    * Viết phương trình động học
+* Chương 2 & 3:
+    * Xác định hàm truyền đạt của đối tượng, hàm truyền đạt của van và thiết bị đo
+    * Kiểu tác động của van (van đóng an toàn, mở an toàn)
+* Chương 4:
+    * Khảo sát tính ổn định của hệ thống
+* Chương 5:
+    * Cấu trúc của bộ điều khiển P, PI, PID; ảnh hưởng của các thông số của bộ điều khiển lên hệ thống và cách chỉnh định
+    * Xấp xỉ mô hình bậc cao về bậc thấp (mô hình bậc nhất, bậc 2 có trễ) sử dụng quy tắc luật chia đôi
+    * Thiết kế bộ điều khiển theo mô hình mẫu
+
 ## Syllabus
 ### [Chapter 1: Introduction](https://github.com/hoangducchinh/process_control_lectures/blob/master/C1_Introduction.pdf)
 
@@ -27,7 +46,7 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
 * System stability
 * Control quality
 
-### [Chapter 5: PID Controller Design](https://github.com/hoangducchinh/process_control_lectures/blob/master/C5_PID_Tuning_tobeUpdated.pdf)
+### [Chapter 5: PID Controller Design](https://github.com/hoangducchinh/process_control_lectures/blob/master/C5_PID_Tuning.pdf)
 
 * Process model approximation
 * PID control tuning methods
