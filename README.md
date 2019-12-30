@@ -14,7 +14,7 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
     * Xác định hàm truyền đạt của đối tượng, hàm truyền đạt của van và thiết bị đo
     * Kiểu tác động của van (van đóng an toàn, mở an toàn)
 * Chương 4:
-    * Vẽ sơ đồ khối của hệ điều khiển phản hồi với đầy đủ các thành phần của hệ thống (kết hợp với nội dung chương 3)
+    * Sơ đồ khối của hệ điều khiển phản hồi với đầy đủ các thành phần (kết hợp với nội dung chương 3)
     * Khảo sát tính ổn định của hệ thống
 * Chương 5:
     * Cấu trúc của bộ điều khiển P, PI, PID; ảnh hưởng của các thông số của bộ điều khiển lên hệ thống và cách chỉnh định
