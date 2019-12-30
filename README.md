@@ -4,7 +4,7 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
 [comment]: <> (# Chú ý: sinh viên được sử dụng tài liệu là 2 tờ A4 viết tay khi làm bài thi cuối kỳ. **Không được sử dụng tài liệu photo, nếu sử dụng sẽ bị thu bài làm và mời ra khỏi phòng thi!**)
 
 ## Nội dung ôn tập cuối kỳ: 
-(Không sử dụng tài liệu khi thi cuối kỳ. Tuy nhiên sinh viên có thể chuẩn bị 2 tờ A4 viết tay (không sử dụng tài liệu photo), nếu được sử dụng khi làm bài sẽ có thông báo sau)
+**(Không sử dụng tài liệu khi thi cuối kỳ. Tuy nhiên sinh viên có thể chuẩn bị 2 tờ A4 viết tay (không sử dụng tài liệu photo), nếu được sử dụng khi làm bài sẽ có thông báo sau)**
 * Chương 1: 
     * Nhận biết các biến quá trình
     * Hiểu và phân tích lưu đồ P&ID
@@ -14,6 +14,7 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in F
     * Xác định hàm truyền đạt của đối tượng, hàm truyền đạt của van và thiết bị đo
     * Kiểu tác động của van (van đóng an toàn, mở an toàn)
 * Chương 4:
+    * Vẽ sơ đồ khối của hệ điều khiển phản hồi với đầy đủ các thành phần của hệ thống (kết hợp với nội dung chương 3)
     * Khảo sát tính ổn định của hệ thống
 * Chương 5:
     * Cấu trúc của bộ điều khiển P, PI, PID; ảnh hưởng của các thông số của bộ điều khiển lên hệ thống và cách chỉnh định
