@@ -1,10 +1,10 @@
 # Process control (EE2090) lecture notes
 Syllabus and slides are for School of Chemical Engineering, HUST and taught in Fall Semester 2019
 
-[comment]: <> (# Chú ý: sinh viên được sử dụng tài liệu là 2 tờ A4 viết tay khi làm bài thi cuối kỳ. **Không được sử dụng tài liệu photo, nếu sử dụng sẽ bị thu bài làm và mời ra khỏi phòng thi!**)
+# Chú ý: sinh viên được sử dụng tài liệu là 2 tờ A4 viết tay (phải ghi đầy đủ họ tên và MSSV) khi làm bài thi cuối kỳ. **Không được sử dụng tài liệu photo, nếu sử dụng sẽ bị thu bài làm và mời ra khỏi phòng thi!**
 
 ## Nội dung ôn tập cuối kỳ: 
-**(Không sử dụng tài liệu khi thi cuối kỳ. Tuy nhiên sinh viên có thể chuẩn bị 2 tờ A4 viết tay (không sử dụng tài liệu photo), nếu được sử dụng khi làm bài sẽ có thông báo sau)**
+[comment]: <> (**(Không sử dụng tài liệu khi thi cuối kỳ. Tuy nhiên sinh viên có thể chuẩn bị 2 tờ A4 viết tay (không sử dụng tài liệu photo), nếu được sử dụng khi làm bài sẽ có thông báo sau)**)
 * Chương 1: 
     * Nhận biết các biến quá trình
     * Hiểu và phân tích lưu đồ P&ID
