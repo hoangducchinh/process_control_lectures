@@ -30,8 +30,8 @@ Syllabus and slides are for School of Chemical Engineering, HUST and taught in S
 * Fundamental definitions
 * Laplace transform revision
 
-### Chapter 2: Process Modelling
-<!-- ### [Chapter 2: Process Modelling](https://github.com/hoangducchinh/process_control_lectures/blob/master/C2_Process_Model.pdf) -->
+<!-- ### Chapter 2: Process Modelling -->
+### [Chapter 2: Process Modelling](https://github.com/hoangducchinh/process_control_lectures/blob/master/C2_Process_Model.pdf)
 
 * Modelling introduction
 * Dynamic behaviours & Practial approach
